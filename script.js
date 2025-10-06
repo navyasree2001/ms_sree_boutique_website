@@ -1,0 +1,1 @@
+console.log("ms.sree_design.wears website loaded.");
